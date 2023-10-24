@@ -1,0 +1,317 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1725656
+D PCB terminal block, nominal current: 6 A, rated voltage (III/2): 160 V, nominal cross section: 0.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MPT 0,5, pitch: 2.54 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard
+F https://www.phoenixcontact.com/online/portal/us/?uri=pxc-oc-itemdetail:pid=1725656&library=usen&pcck=P-11-01-05&tab=1&selectedCategory=ALL
+$ENDCMP
+#
+$CMP 1725669
+D PCB terminal block, nominal current: 6 A, rated voltage (III/2): 160 V, nominal cross section: 0.5 mm?, Number of potentials: 3, Number of rows: 1, Number of positions per row: 3, product range: MPT 0,5, pitch: 2.54 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard
+F https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1725669&library=usen&tab=1
+$ENDCMP
+#
+$CMP 1725672
+D 4 way vertical PCB terminal,6A 63V Phoenix Contact Non-Fused Terminal Block, 4 Way, Solder Terminals, 26 ??? 20 AWG Through Hole, Nylon, 63 V
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00050602.pdf
+$ENDCMP
+#
+$CMP 1725711
+D 8 way PCB vertical mount terminal,2.54mm 8 way PCB vertical mount terminal,2.54mm
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00050608.pdf
+$ENDCMP
+#
+$CMP 5556416-1
+D Jack,PCBMountedJack,8,Polyester(PBT)
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F5556416%7FC1%7Fpdf%7FEnglish%7FENG_CD_5556416_C1.pdf%7F5556416-1
+$ENDCMP
+#
+$CMP 74HC165BQ,115
+D 8-Bit Shift Register Par/Serial DHVQFN16
+F https://componentsearchengine.com/Datasheets/1/74HC165BQ,115.pdf
+$ENDCMP
+#
+$CMP 74HC595BQ,115
+D 8-bit SIPO shift register,3-state, QFN16
+F https://componentsearchengine.com/Datasheets/1/74HC595BQ,115.pdf
+$ENDCMP
+#
+$CMP 74LVC1G157GW,125
+D NXP 74LVC1G157GW,125, Multiplexer Encoder, 2 to 1, 1.65  5.5 V, 6-Pin SC-88
+F https://assets.nexperia.com/documents/data-sheet/74LVC1G157.pdf
+$ENDCMP
+#
+$CMP 74LVC1G32GV,125
+D NEXPERIA - 74LVC1G32GV,125 - OR GATE, SINGLE, 2 I/P, SC-74A-5
+F https://componentsearchengine.com/Datasheets/1/74LVC1G32GV,125.pdf
+$ENDCMP
+#
+$CMP 95501-2661
+D 6/6 way r/a PCB thru hole data skt,1.5A Molex 6P/6C Right Angle Through Hole Female RJ12 UTP RJ12 Connector
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/df0790d8aebb5882625d0f98b986e00d.pdf
+$ENDCMP
+#
+$CMP ATmega4809-M
+D 20MHz, 48kB Flash, 6kB SRAM, 256B EEPROM, UQFN-48
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40002016A.pdf
+$ENDCMP
+#
+$CMP ATtiny1606-M
+D 20MHz, 16kB Flash, 1kB SRAM, 256B EEPROM, VQFN-20
+K AVR 8bit Microcontroller tinyAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny806_1606_Data_Sheet_40002029A.pdf
+$ENDCMP
+#
+$CMP ATtiny1616-M
+D 20MHz, 16kB Flash, 2kB SRAM, 256B EEPROM, VQFN-20
+K AVR 8bit Microcontroller tinyAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny3216_ATtiny1616-data-sheet-40001997B.pdf
+$ENDCMP
+#
+$CMP ATtiny1626
+D 20MHz, 4kB Flash, 256B SRAM, 128B EEPROM, VQFN-20
+K AVR 8bit Microcontroller tinyAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Microchip%208bit%20mcu%20AVR%20ATtiny406%20data%20sheet%2040001976A.pdf
+$ENDCMP
+#
+$CMP ATtiny3216-M
+D 20MHz, 32kB Flash, 2kB SRAM, 256B EEPROM, VQFN-20
+K AVR 8bit Microcontroller tinyAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny3216_ATtiny1616-data-sheet-40001997B.pdf
+$ENDCMP
+#
+$CMP ATtiny416-M
+D 20MHz, 4kB Flash, 256B SRAM, 128B EEPROM, VQFN-20
+K AVR 8bit Microcontroller tinyAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001913A.pdf
+$ENDCMP
+#
+$CMP ATtiny806-M
+D 20MHz, 8kB Flash, 512B SRAM, 128B EEPROM, VQFN-20
+K AVR 8bit Microcontroller tinyAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny806_1606_Data_Sheet_40002029A.pdf
+$ENDCMP
+#
+$CMP ATtiny816-M
+D 20MHz, 8kB Flash, 512B SRAM, 128B EEPROM, VQFN-20
+K AVR 8bit Microcontroller tinyAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001913A.pdf
+$ENDCMP
+#
+$CMP AVR128DA48-I_6LX
+D MCU 8-bit AVR RISC 128KB Flash 2.5V/3.3V/5V 48-Pin VQFN EP Tray
+F https://www.arrow.com/en/products/avr128da48-i6lx/microchip-technology?region=nac
+$ENDCMP
+#
+$CMP AVR32DA48
+D 24MHz, 32kB Flash, 4kB SRAM, 512B EEPROM, VQFN-48
+K AVR 8bit Microcontroller AVR-DA
+$ENDCMP
+#
+$CMP BAS3007ARPPE6327HTSA1
+D Infineon BAS3007ARPPE6327HTSA1 SMT Schottky Diode, 30V 900mA, 4-Pin SOT-143
+F https://www.mouser.co.uk/datasheet/2/196/Infineon-BAS3007ASERIES-DS-v01_01-en-1225497.pdf
+$ENDCMP
+#
+$CMP BD63573NUV-E2
+D H-Bridge Motor Driver, 16V, 3.2A, 10pin
+F https://www.rohm.com/datasheet/BD63573NUV/bd63573nuv-e
+$ENDCMP
+#
+$CMP BMA255
+D 3-axis MEMS Sensor
+$ENDCMP
+#
+$CMP BMX160
+D IMUs - Inertial Measurement Units 9-axis (9DOF) Absolute Orientation MEMS Sensor
+$ENDCMP
+#
+$CMP BNO055
+D IMUs - Inertial Measurement Units 9-axis (9DOF) Absolute Orientation MEMS Sensor
+$ENDCMP
+#
+$CMP CDBU0245
+D 45V 200mA Schottky diode, 0603
+K diode Schottky
+$ENDCMP
+#
+$CMP CSD87502Q2
+D MOSFET 30 V Dual N-Channel NexFET Power MOSFETs 6-WSON -55 to 150
+F http://www.ti.com/lit/ds/symlink/csd87502q2.pdf
+$ENDCMP
+#
+$CMP CSMS15CIC06
+D VCC (VISUAL COMMUNICATIONS COMPANY) - CSMS15CIC06 - CAPACITIVE TOUCH SENSOR DISPLAY, BLUE
+F https://www.vcclite.com/wp-content/uploads/wpallimport/files/files/CSMS15CIC06.pdf
+$ENDCMP
+#
+$CMP CTHS15CIC06ARROW
+D Pushbutton Switches CTH SQR 15mm LED 3.2V Lead Blue Arrow
+F https://www.vcclite.com/wp-content/uploads/wpallimport/files/files/CTHS15CIC06Rev3.pdf
+$ENDCMP
+#
+$CMP DRV8231ADSGR
+D DRV8231: 4.5-V to 33-V, 600-m, shunt
+F https://www.ti.com/lit/ds/symlink/drv8231a.pdf?ts=1648534030931&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FDRV8231A%253FkeyMatch%253DDRV8231ADSGR%2526tisearch%253Dsearch-everything%2526usecase%253DOPN
+$ENDCMP
+#
+$CMP DRV8847RTER
+D 2A Dual H-Bridge Motor Driver
+F http://www.ti.com/lit/gpn/DRV8847
+$ENDCMP
+#
+$CMP G6SK-2_DC12
+D Low Signal Relays - PCB ThruHole 2Coil Latch DPDT 12VDC 200mW
+F https://componentsearchengine.com/Datasheets/1/G6SK-2 DC12.pdf
+$ENDCMP
+#
+$CMP INA381
+D High-Speed, Current Sense Amplifier With Integrated Comparator
+K current monitor shunt sensor bidirectional
+F http://www.ti.com/lit/ds/symlink/ina282.pdf
+$ENDCMP
+#
+$CMP IRLML6344
+D 4A Id, 30V Vds, 0.8V Vgs, 0.37Ohm Rds, N-Channel MOSFET
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/irlml6344pbf.pdf?fileId=5546d462533600a4015356689c44262c
+$ENDCMP
+#
+$CMP ISO7740
+D Low Power Quad-Channel 2/2 Digital Isolator, 25Mbps 31ns, Fail-Safe High, SO16
+K 4Ch Quad Digital Isolator 25Mbps
+F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=iso7342c&fileType=pdf
+$ENDCMP
+#
+$CMP ISO7742
+D Low Power Quad-Channel 2/2 Digital Isolator, 25Mbps 31ns, Fail-Safe High, SO16
+K 4Ch Quad Digital Isolator 25Mbps
+F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=iso7342c&fileType=pdf
+$ENDCMP
+#
+$CMP LTC4311CDC
+D Interface - Specialised I2C/SMBus Rise Time Accelerator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/4311fa.pdf
+$ENDCMP
+#
+$CMP MAX17613AATP+
+D MAXIM INTEGRATED PRODUCTS - MAX17613AATP+ - POWER LOAD SW, -40 TO 125DEG C
+F https://datasheets.maximintegrated.com/en/ds/MAX17613A-MAX17613C.pdf
+$ENDCMP
+#
+$CMP MAX4896
+D 8-Channel Relay/Load Driver
+$ENDCMP
+#
+$CMP MAX5712
+D Low-Power, 12-Bit, Rail to Rail Voltage-Output Serial DAC
+K DAC SPI 12-Bit
+$ENDCMP
+#
+$CMP MIC5235-5.0
+D 150mA low dropout linear regulator, enable pin, adjustable positive output, SOT-23-5
+K linear regulator ldo adjustable positive
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5235.pdf
+$ENDCMP
+#
+$CMP MP8862GQ-0000-P
+D Switching Voltage Regulators 2.8V-22V VIN, 2A IOUT, 4-Switch, Integrated Buck-Boost Converter with I2C Interface
+F https://componentsearchengine.com/Datasheets/2/MP8862GQ-0000-P.pdf
+$ENDCMP
+#
+$CMP MPM3610AGQV-P
+D Switching Voltage Regulators 21V/1.2A DC/DC Mini-Module Regulator with Integrated Inductor
+F https://www.monolithicpower.com/pub/media/document/MPM3610A_r1.0.pdf
+$ENDCMP
+#
+$CMP MX1A-C1NN
+D Pushbutton Switches Full Travel, Mech. Keyswitch Tactile Feel (Clear stem), 65cN No LED, No Diode Frame Mount (no fixation pins)
+F https://media.digikey.com/pdf/Data%20Sheets/Cherry%20PDFs/MX%20Series.pdf
+$ENDCMP
+#
+$CMP NCP730BMT330TBG
+D LDO Regulator Pos 3.3V 0.15A 6-Pin WDFN EP T/R
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/1ebd024e3969e5b88722da748f5275a5.pdf
+$ENDCMP
+#
+$CMP NDT452AP
+D MOSFET P-Channel 30V 5A SOT223 Fairchild NDT452AP P-channel MOSFET Transistor, 5 A, 30 V, 3+Tab-Pin SOT-223
+F https://componentsearchengine.com/Datasheets/2/NDT452AP.pdf
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP NPIC6C596ABQX
+D NPIC6C596A - Power logic 8-bit shift register; open-drain outputs@en-us
+F https://assets.nexperia.com/documents/data-sheet/NPIC6C596A.pdf
+$ENDCMP
+#
+$CMP OPA521
+D 2.5-A Narrowband Line Driver
+K Line Driver 2.5A
+F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=iso7342c&fileType=pdf
+$ENDCMP
+#
+$CMP PCA9570GMH
+D NXP - PCA9570GMH - I/O EXPANDER, 4BIT, 400KHZ, XQFN-8
+F http://www.nxp.com/docs/en/data-sheet/PCA9570.pdf
+$ENDCMP
+#
+$CMP PEL12T-4226F-S1024
+D Optical Encoder Rotary Incremental Flat 0.69oz.in Straight Digital Square Wave Through Hole PC Pin 6CPR
+F https://componentsearchengine.com/Datasheets/1/PEL12T-4226F-S1024.pdf
+$ENDCMP
+#
+$CMP PMPB16EPX
+D 30 V, P-channel Trench MOSFET
+F https://componentsearchengine.com/Datasheets/1/PMPB16EPX.pdf
+$ENDCMP
+#
+$CMP RJSAE-5080-02
+D Modular Connectors / Ethernet Connectors STACKED MOD JACKS
+$ENDCMP
+#
+$CMP SLLB120300
+D Electromechanical Switch ON OFF SPST Multi Control Switch 0.01A T/R
+F https://www.arrow.com/en/products/sllb120300/alps-electric
+$ENDCMP
+#
+$CMP SS34FA
+D 40V 3A Schottky Barrier Rectifier
+F https://componentsearchengine.com/Datasheets/1/SS34FA.pdf
+$ENDCMP
+#
+$CMP TCA9548ARGERQ1
+D Automotive 8-channel I2C switch with reset
+F http://www.ti.com/lit/gpn/TCA9548A-Q1
+$ENDCMP
+#
+$CMP THVD1450DRBR
+D RS-422/RS-485 Interface IC A 595-THVD1450DRBT
+F https://www.arrow.com/en/products/thvd1450drbr/texas-instruments
+$ENDCMP
+#
+$CMP THVD1451DRBR
+D RS-422/RS-485 Interface IC
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2fthvd1451
+$ENDCMP
+#
+$CMP TLC59401RHBR
+D 16-Channel LED Driver with Dot Correction and Grayscale PWM Control
+F http://www.ti.com/lit/gpn/tlc59401
+$ENDCMP
+#
+$CMP TPS22810DRVR
+D 2.7-18-V, 79-mΩ On-Resistance Load Switch With Thermal Protection
+K single channel load switch
+$ENDCMP
+#
+$CMP VCNL4040M3OE
+D Fully Integrated Proximity and Ambient Light Sensor with Infrared Emitter, I2C Interface, and Interrupt Function
+F http://www.vishay.com/docs/84274/vcnl4040.pdf
+$ENDCMP
+#
+#End Doc Library

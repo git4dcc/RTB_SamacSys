@@ -325,4 +325,16 @@ D Fully Integrated Proximity and Ambient Light Sensor with Infrared Emitter, I2C
 F http://www.vishay.com/docs/84274/vcnl4040.pdf
 $ENDCMP
 #
+$CMP TDN_5-0912WI
+D 5 Watt DC/DC converter, industrial, 4:1 input, highest power density, regulated, encapsulated, DIP package
+K
+F https://componentsearchengine.com/Datasheets/1/TDN 5-0912WI.pdf
+$ENDCMP
+#
+$CMP TPS2552DRVT
+D Adjustable, Active Low, Constant-Current, Current-Limited Power-Distribution Switch
+K
+F http://www.ti.com/lit/gpn/tps2552
+$ENDCMP
+#
 #End Doc Library

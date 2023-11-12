@@ -25,6 +25,14 @@ D Jack,PCBMountedJack,8,Polyester(PBT)
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F5556416%7FC1%7Fpdf%7FEnglish%7FENG_CD_5556416_C1.pdf%7F5556416-1
 $ENDCMP
 #
+$CMP 59453-061110EDHLF
+D Amphenol 6-pol FPC with 'click'
+$ENDCMP
+#
+$CMP 7-215079-6
+D TE MicroMatch 6-pol
+$ENDCMP
+#
 $CMP 74HC165BQ,115
 D 8-Bit Shift Register Par/Serial DHVQFN16
 F https://componentsearchengine.com/Datasheets/1/74HC165BQ,115.pdf
@@ -111,6 +119,11 @@ $ENDCMP
 $CMP AVR32DA48
 D 24MHz, 32kB Flash, 4kB SRAM, 512B EEPROM, VQFN-48
 K AVR 8bit Microcontroller AVR-DA
+$ENDCMP
+#
+$CMP AVR64DD28-I_STX
+D 8-bit Microcontrollers - MCU 64KB, 8KB RAM, 28p, 24MHz, MVIO, 12b ADC, ZCD, DAC, 2xUART, SPI, TWI
+F https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/AVR64DD32-28-Prelim-DataSheet-DS40002315B.pdf
 $ENDCMP
 #
 $CMP BAS3007ARPPE6327HTSA1
@@ -260,6 +273,11 @@ D NPIC6C596A - Power logic 8-bit shift register; open-drain outputs@en-us
 F https://assets.nexperia.com/documents/data-sheet/NPIC6C596A.pdf
 $ENDCMP
 #
+$CMP NXS0104BQX
+D NXS0104 - Dual supply translating transceiver; open drain; autodirectionsensing@en-us
+F https://assets.nexperia.com/documents/data-sheet/NXS0104.pdf
+$ENDCMP
+#
 $CMP OPA521
 D 2.5-A Narrowband Line Driver
 K Line Driver 2.5A
@@ -295,9 +313,19 @@ D 40V 3A Schottky Barrier Rectifier
 F https://componentsearchengine.com/Datasheets/1/SS34FA.pdf
 $ENDCMP
 #
+$CMP TCA9517DR
+D TEXAS INSTRUMENTS - TCA9517DR - I2C/SMBUS BUS REPEATER, 400KHZ, SOIC-8
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA5/411208.pdf
+$ENDCMP
+#
 $CMP TCA9548ARGERQ1
 D Automotive 8-channel I2C switch with reset
 F http://www.ti.com/lit/gpn/TCA9548A-Q1
+$ENDCMP
+#
+$CMP TDN_5-0912WI
+D 5 Watt DC/DC converter, industrial, 4:1 input, highest power density, regulated, encapsulated, DIP package
+F https://componentsearchengine.com/Datasheets/1/TDN 5-0912WI.pdf
 $ENDCMP
 #
 $CMP THVD1450DRBR
@@ -320,21 +348,14 @@ D 2.7-18-V, 79-mΩ On-Resistance Load Switch With Thermal Protection
 K single channel load switch
 $ENDCMP
 #
+$CMP TPS2552DRVT
+D Adjustable, Active Low, Constant-Current, Current-Limited Power-Distribution Switch
+F http://www.ti.com/lit/gpn/tps2552
+$ENDCMP
+#
 $CMP VCNL4040M3OE
 D Fully Integrated Proximity and Ambient Light Sensor with Infrared Emitter, I2C Interface, and Interrupt Function
 F http://www.vishay.com/docs/84274/vcnl4040.pdf
-$ENDCMP
-#
-$CMP TDN_5-0912WI
-D 5 Watt DC/DC converter, industrial, 4:1 input, highest power density, regulated, encapsulated, DIP package
-K
-F https://componentsearchengine.com/Datasheets/1/TDN 5-0912WI.pdf
-$ENDCMP
-#
-$CMP TPS2552DRVT
-D Adjustable, Active Low, Constant-Current, Current-Limited Power-Distribution Switch
-K
-F http://www.ti.com/lit/gpn/tps2552
 $ENDCMP
 #
 #End Doc Library

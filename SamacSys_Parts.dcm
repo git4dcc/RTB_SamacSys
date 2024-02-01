@@ -358,4 +358,10 @@ D Fully Integrated Proximity and Ambient Light Sensor with Infrared Emitter, I2C
 F http://www.vishay.com/docs/84274/vcnl4040.pdf
 $ENDCMP
 #
+$CMP 1725724
+D PCB terminal block, nominal current: 6 A, rated voltage (III/2): 160 V, nominal cross section: 0.5 mm?, Number of potentials: 9, Number of rows: 1, Number of positions per row: 9, product range: MPT 0,5, pitch: 2.54 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard
+K
+F https://www.phoenixcontact.com/online/portal/pi/pxc/product_detail_page/!ut/p/z1/5VfLTuswEP2V3kV3uHbe6TKEClooN6gtNNlEtuNUhrxITAt8_bXboAoEYYFYXCUaKbYzM_Y5nql6YATXMCrwlm-w4GWBMzkPIzt29Uv_4tzU5si8cNHNdXDl3dwEhu7p8BZGMGpYxqhgiY8F25T1Cwy9qyv1QWACQ12NKkofYBgATQ
+$ENDCMP
+#
 #End Doc Library

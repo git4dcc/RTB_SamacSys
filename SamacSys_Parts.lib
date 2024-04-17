@@ -89,6 +89,33 @@ X 8 8 0 -700 200 R 50 50 0 0 P
 ENDDRAW
 ENDDEF
 #
+# 1725724
+#
+DEF 1725724 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1725724" 650 200 50 H V L CNN
+F2 "1725724" 650 100 50 H I L CNN
+F3 "https://www.phoenixcontact.com/online/portal/pi/pxc/product_detail_page/!ut/p/z1/5VfLTuswEP2V3kV3uHbe6TKEClooN6gtNNlEtuNUhrxITAt8_bXboAoEYYFYXCUaKbYzM_Y5nql6YATXMCrwlm-w4GWBMzkPIzt29Uv_4tzU5si8cNHNdXDl3dwEhu7p8BZGMGpYxqhgiY8F25T1Cwy9qyv1QWACQ12NKkofYBgATQ" 650 0 50 H I L CNN
+F4 "PCB terminal block, nominal current: 6 A, rated voltage (III/2): 160 V, nominal cross section: 0.5 mm?, Number of potentials: 9, Number of rows: 1, Number of positions per row: 9, product range: MPT 0,5, pitch: 2.54 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard" 650 -100 50 H I L CNN "Description"
+F5 "8.65" 650 -200 50 H I L CNN "Height"
+F6 "651-1725724" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1725724?qs=W3wJikR1%252BS5kmBpxVtLnow%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Phoenix Contact" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1725724" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -900 200 -900 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 0 -400 200 R 50 50 0 0 P
+X 6 6 0 -500 200 R 50 50 0 0 P
+X 7 7 0 -600 200 R 50 50 0 0 P
+X 8 8 0 -700 200 R 50 50 0 0 P
+X 9 9 0 -800 200 R 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
 # 5556416-1
 #
 DEF 5556416-1 J 0 30 Y Y 1 F N
@@ -491,6 +518,57 @@ X PB2 6 600 100 100 L 50 50 1 1 B
 X PB3 7 600 0 100 L 50 50 1 1 B
 X PB4 8 600 -100 100 L 50 50 1 1 B
 X PB5 9 600 -200 100 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# AVR64DB32-I_RXB
+#
+DEF AVR64DB32-I_RXB IC 0 30 Y Y 1 F N
+F0 "IC" 1450 1100 50 H V L CNN
+F1 "AVR64DB32-I_RXB" 1450 1000 50 H V L CNN
+F2 "QFN50P500X500X90-33N-D" 1450 900 50 H I L CNN
+F3 "https://ww1.microchip.com/downloads/en/DeviceDoc/AVR64DB28-32-48-64-DataSheet-DS40002300A.pdf" 1450 800 50 H I L CNN
+F4 "AVR64DB32-I/RXB" 1450 700 50 H I L CNN "Description"
+F5 "0.9" 1450 600 50 H I L CNN "Height"
+F6 "579-AVR64DB32-I/RXB" 1450 500 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/AVR64DB32-I-RXB?qs=eP2BKZSCXI6qYgfD2L6q3w%3D%3D" 1450 400 50 H I L CNN "Mouser Price/Stock"
+F8 "Microchip" 1450 300 50 H I L CNN "Manufacturer_Name"
+F9 "AVR64DB32-I/RXB" 1450 200 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 900 1400 900 1400 -1200 200 -1200 200 900 N
+X PA3 1 0 0 200 R 50 50 0 0 P
+X VDDIO2 10 500 -1400 200 U 50 50 0 0 P
+X PD1 11 600 -1400 200 U 50 50 0 0 P
+X PD2 12 700 -1400 200 U 50 50 0 0 P
+X PD3 13 800 -1400 200 U 50 50 0 0 P
+X PD4 14 900 -1400 200 U 50 50 0 0 P
+X PD5 15 1000 -1400 200 U 50 50 0 0 P
+X PD6 16 1100 -1400 200 U 50 50 0 0 P
+X PD7 17 1600 -700 200 L 50 50 0 0 P
+X AVDD 18 1600 -600 200 L 50 50 0 0 P
+X GND_1 19 1600 -500 200 L 50 50 0 0 P
+X PA4 2 0 -100 200 R 50 50 0 0 P
+X PF0_(XTAL32K1) 20 1600 -400 200 L 50 50 0 0 P
+X PF1_(XTAL32K2) 21 1600 -300 200 L 50 50 0 0 P
+X PF2 22 1600 -200 200 L 50 50 0 0 P
+X PF3 23 1600 -100 200 L 50 50 0 0 P
+X PF4 24 1600 0 200 L 50 50 0 0 P
+X PF5 25 1200 1100 200 D 50 50 0 0 P
+X PF6(~RESET) 26 1100 1100 200 D 50 50 0 0 P
+X UPDI 27 1000 1100 200 D 50 50 0 0 P
+X VDD 28 900 1100 200 D 50 50 0 0 P
+X GND_2 29 800 1100 200 D 50 50 0 0 P
+X PA5 3 0 -200 200 R 50 50 0 0 P
+X PA_0_(XTALHF1) 30 700 1100 200 D 50 50 0 0 P
+X PA1_(XTALHF2) 31 600 1100 200 D 50 50 0 0 P
+X PA2 32 500 1100 200 D 50 50 0 0 P
+X EP 33 400 1100 200 D 50 50 0 0 P
+X PA6 4 0 -300 200 R 50 50 0 0 P
+X PA7 5 0 -400 200 R 50 50 0 0 P
+X PC0 6 0 -500 200 R 50 50 0 0 P
+X PC1 7 0 -600 200 R 50 50 0 0 P
+X PC2 8 0 -700 200 R 50 50 0 0 P
+X PC3 9 400 -1400 200 U 50 50 0 0 P
 ENDDRAW
 ENDDEF
 #
@@ -1930,30 +2008,32 @@ X SCLK 8 0 -300 200 R 50 50 0 0 P
 ENDDRAW
 ENDDEF
 #
-#SamacSys ECAD Model 1725724
-#/291947/121410/2.50/9/2/Connector
-DEF 1725724 J 0 30 Y Y 1 F N
-F0 "J" 650 300 50 H V L CNN
-F1 "1725724" 650 200 50 H V L CNN
-F2 "1725724" 650 100 50 H I L CNN
-F3 "https://www.phoenixcontact.com/online/portal/pi/pxc/product_detail_page/!ut/p/z1/5VfLTuswEP2V3kV3uHbe6TKEClooN6gtNNlEtuNUhrxITAt8_bXboAoEYYFYXCUaKbYzM_Y5nql6YATXMCrwlm-w4GWBMzkPIzt29Uv_4tzU5si8cNHNdXDl3dwEhu7p8BZGMGpYxqhgiY8F25T1Cwy9qyv1QWACQ12NKkofYBgATQ" 650 0 50 H I L CNN
-F4 "PCB terminal block, nominal current: 6 A, rated voltage (III/2): 160 V, nominal cross section: 0.5 mm?, Number of potentials: 9, Number of rows: 1, Number of positions per row: 9, product range: MPT 0,5, pitch: 2.54 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard" 650 -100 50 H I L CNN "Description"
-F5 "8.65" 650 -200 50 H I L CNN "Height"
-F6 "651-1725724" 650 -300 50 H I L CNN "Mouser Part Number"
-F7 "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1725724?qs=W3wJikR1%252BS5kmBpxVtLnow%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
-F8 "Phoenix Contact" 650 -500 50 H I L CNN "Manufacturer_Name"
-F9 "1725724" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+# WS2812-2020
+#
+DEF WS2812-2020 U 0 40 Y Y 1 F N
+F0 "U" -400 300 50 H V L BNN
+F1 "WS2812-2020" -400 -400 50 H V L BNN
+F2 "RTB:WS2812-2020" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Worldsemi" 0 0 50 H I L BNN "MF"
+F5 "0.84 mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F6 "Package" 0 0 50 H I L BNN "Package"
+F7 "None" 0 0 50 H I L BNN "Price"
+F8 "https://www.snapeda.com/parts/WS2812-2020/Worldsemi/view-part/?ref=eda" 0 0 50 H I L BNN "Check_prices"
+F9 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F10 "V1.3" 0 0 50 H I L BNN "PARTREV"
+F11 "https://www.snapeda.com/parts/WS2812-2020/Worldsemi/view-part/?ref=snap" 0 0 50 H I L BNN "SnapEDA_Link"
+F12 "WS2812-2020" 0 0 50 H I L BNN "MP"
+F13 "\\nIntelligent control LED light source, SMD-4\\n" 0 0 50 H I L BNN "Description"
+F14 "Worldsemi" 0 0 50 H I L BNN "MANUFACTURER"
+F15 "Not in stock" 0 0 50 H I L BNN "Availability"
+F16 "WS2812-2020" 0 0 50 H I L BNN "SNAPEDA_PN"
 DRAW
-X 1 1 0 0 200 R 50 50 0 0 P
-X 2 2 0 -100 200 R 50 50 0 0 P
-X 3 3 0 -200 200 R 50 50 0 0 P
-X 4 4 0 -300 200 R 50 50 0 0 P
-X 5 5 0 -400 200 R 50 50 0 0 P
-X 6 6 0 -500 200 R 50 50 0 0 P
-X 7 7 0 -600 200 R 50 50 0 0 P
-X 8 8 0 -700 200 R 50 50 0 0 P
-X 9 9 0 -800 200 R 50 50 0 0 P
-P 5 0 1 6 200 100 600 100 600 -900 200 -900 200 100 N
+S -400 -300 400 300 0 0 16 f
+X DO 1 600 0 200 L 40 40 0 0 O
+X GND 2 600 -200 200 L 40 40 0 0 W
+X DI 3 -600 0 200 R 40 40 0 0 I
+X VDD 4 600 200 200 L 40 40 0 0 W
 ENDDRAW
 ENDDEF
 #

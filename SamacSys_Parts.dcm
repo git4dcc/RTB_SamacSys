@@ -20,6 +20,11 @@ D 8 way PCB vertical mount terminal,2.54mm 8 way PCB vertical mount terminal,2.5
 F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00050608.pdf
 $ENDCMP
 #
+$CMP 1725724
+D PCB terminal block, nominal current: 6 A, rated voltage (III/2): 160 V, nominal cross section: 0.5 mm?, Number of potentials: 9, Number of rows: 1, Number of positions per row: 9, product range: MPT 0,5, pitch: 2.54 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard
+F https://www.phoenixcontact.com/online/portal/pi/pxc/product_detail_page/!ut/p/z1/5VfLTuswEP2V3kV3uHbe6TKEClooN6gtNNlEtuNUhrxITAt8_bXboAoEYYFYXCUaKbYzM_Y5nql6YATXMCrwlm-w4GWBMzkPIzt29Uv_4tzU5si8cNHNdXDl3dwEhu7p8BZGMGpYxqhgiY8F25T1Cwy9qyv1QWACQ12NKkofYBgATQ
+$ENDCMP
+#
 $CMP 5556416-1
 D Jack,PCBMountedJack,8,Polyester(PBT)
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F5556416%7FC1%7Fpdf%7FEnglish%7FENG_CD_5556416_C1.pdf%7F5556416-1
@@ -119,6 +124,11 @@ $ENDCMP
 $CMP AVR32DA48
 D 24MHz, 32kB Flash, 4kB SRAM, 512B EEPROM, VQFN-48
 K AVR 8bit Microcontroller AVR-DA
+$ENDCMP
+#
+$CMP AVR64DB32-I_RXB
+D AVR64DB32-I/RXB
+F https://ww1.microchip.com/downloads/en/DeviceDoc/AVR64DB28-32-48-64-DataSheet-DS40002300A.pdf
 $ENDCMP
 #
 $CMP AVR64DD28-I_STX
@@ -356,12 +366,6 @@ $ENDCMP
 $CMP VCNL4040M3OE
 D Fully Integrated Proximity and Ambient Light Sensor with Infrared Emitter, I2C Interface, and Interrupt Function
 F http://www.vishay.com/docs/84274/vcnl4040.pdf
-$ENDCMP
-#
-$CMP 1725724
-D PCB terminal block, nominal current: 6 A, rated voltage (III/2): 160 V, nominal cross section: 0.5 mm?, Number of potentials: 9, Number of rows: 1, Number of positions per row: 9, product range: MPT 0,5, pitch: 2.54 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard
-K
-F https://www.phoenixcontact.com/online/portal/pi/pxc/product_detail_page/!ut/p/z1/5VfLTuswEP2V3kV3uHbe6TKEClooN6gtNNlEtuNUhrxITAt8_bXboAoEYYFYXCUaKbYzM_Y5nql6YATXMCrwlm-w4GWBMzkPIzt29Uv_4tzU5si8cNHNdXDl3dwEhu7p8BZGMGpYxqhgiY8F25T1Cwy9qyv1QWACQ12NKkofYBgATQ
 $ENDCMP
 #
 #End Doc Library

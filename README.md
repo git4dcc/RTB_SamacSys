@@ -6,3 +6,12 @@
 Kicad Project Library
 
 This library is required and referenced by all RTB Kicad projects.
+
+Please create the following directory structure,
+
+```
+<Directory>/SamacSys
+<Directory/<RTB_Project-1>
+<Directory/<RTB_Project-2>
+<Directory/<RTB_Project-N>
+```

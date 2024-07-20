@@ -5,7 +5,7 @@
 
 Kicad Project Library
 
-This library is required and referenced by all RTB Kicad projects. The library was created using [SamacSys Library Loader](https://www.samacsys.com/).
+This library is required and referenced by all my RTB Kicad projects. The library was created using [SamacSys Library Loader](https://www.samacsys.com/).
 
 Please create the following directory structure,
 

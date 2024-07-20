@@ -13,5 +13,6 @@ Please create the following directory structure,
 <Directory>/SamacSys
 <Directory/<RTB_Project-1>
 <Directory/<RTB_Project-2>
+...
 <Directory/<RTB_Project-N>
 ```

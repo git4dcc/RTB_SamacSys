@@ -368,4 +368,10 @@ D Fully Integrated Proximity and Ambient Light Sensor with Infrared Emitter, I2C
 F http://www.vishay.com/docs/84274/vcnl4040.pdf
 $ENDCMP
 #
+$CMP PMZB200UNEYL
+D N-Channel 30 V 1.4A (Ta) 350mW (Ta), 6.25W (Tc) Surface Mount DFN1006B-3
+K
+F https://assets.nexperia.com/documents/data-sheet/PMZB200UNE.pdf
+$ENDCMP
+#
 #End Doc Library

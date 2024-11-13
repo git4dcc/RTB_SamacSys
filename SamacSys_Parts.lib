@@ -2127,4 +2127,52 @@ P 5 0 1 6 200 100 700 100 700 -800 200 -800 200 100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model SSA33L-E3_61T
+#/552764/121410/2.50/2/3/Schottky Diode
+DEF SSA33L-E3_61T D 0 30 Y Y 1 F N
+F0 "D" 500 350 50 H V L CNN
+F1 "SSA33L-E3_61T" 500 250 50 H V L CNN
+F2 "DIOM5127X229N" 500 150 50 H I L CNN
+F3 "https://www.mouser.de/datasheet/2/427/ssa33l-103313.pdf" 500 50 50 H I L CNN
+F4 "Schottky Diodes & Rectifiers" 500 -50 50 H I L CNN "Description"
+F5 "2.29" 500 -150 50 H I L CNN "Height"
+F6 "625-SSA33L-E3" 500 -250 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/SSA33L-E3-61T?qs=x2jpVgRnAtOQ31b32iy%2Fhw%3D%3D" 500 -350 50 H I L CNN "Mouser Price/Stock"
+F8 "Vishay" 500 -450 50 H I L CNN "Manufacturer_Name"
+F9 "SSA33L-E3/61T" 500 -550 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 100 0 100 R 50 50 0 0 P
+X ~ 2 700 0 100 L 50 50 0 0 P
+P 2 0 1 6 300 100 300 -100 N
+P 3 0 1 6 300 100 340 100 340 60 N
+P 3 0 1 6 300 -100 260 -100 260 -60 N
+P 2 0 1 6 200 0 300 0 N
+P 2 0 1 6 500 0 600 0 N
+P 4 0 1 10 300 0 500 100 500 -100 300 0 F
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model BAT30F4
+#/632717/121410/2.50/2/3/Diode
+DEF BAT30F4 D 0 30 Y Y 1 F N
+F0 "D" 450 200 50 H V L CNN
+F1 "BAT30F4" 450 100 50 H V L CNN
+F2 "BAT30F4" 450 0 50 H I L CNN
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/29/4a/db/25/3e/9a/4e/a1/DM00104747.pdf/files/DM00104747.pdf/jcr:content/translations/en.DM00104747.pdf" 450 -100 50 H I L CNN
+F4 "STMICROELECTRONICS - BAT30F4 - DIODE, SCHOTTKY, 30V, 0201 FLIPCHIP" 450 -200 50 H I L CNN "Description"
+F5 "0.32" 450 -300 50 H I L CNN "Height"
+F6 "STMicroelectronics" 450 -400 50 H I L CNN "Manufacturer_Name"
+F7 "BAT30F4" 450 -500 50 H I L CNN "Manufacturer_Part_Number"
+F8 "BAT30F4" 450 -600 50 H I L CNN "Arrow Part Number"
+F9 "https://www.arrow.com/en/products/bat30f4/stmicroelectronics?region=europe" 450 -700 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 600 0 100 L 50 50 0 0 P
+P 2 0 1 6 200 100 200 -100 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 400 0 500 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+ENDDRAW
+ENDDEF
+#
 #End Library

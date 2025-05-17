@@ -188,6 +188,10 @@ D 2A Dual H-Bridge Motor Driver
 F http://www.ti.com/lit/gpn/DRV8847
 $ENDCMP
 #
+$CMP FC68148S
+D Barrel Jack
+$ENDCMP
+#
 $CMP G6SK-2_DC12
 D Low Signal Relays - PCB ThruHole 2Coil Latch DPDT 12VDC 200mW
 F https://componentsearchengine.com/Datasheets/1/G6SK-2 DC12.pdf
@@ -309,6 +313,11 @@ D 30 V, P-channel Trench MOSFET
 F https://componentsearchengine.com/Datasheets/1/PMPB16EPX.pdf
 $ENDCMP
 #
+$CMP PMZB200UNEYL
+D N-Channel 30 V 1.4A (Ta) 350mW (Ta), 6.25W (Tc) Surface Mount DFN1006B-3
+F https://assets.nexperia.com/documents/data-sheet/PMZB200UNE.pdf
+$ENDCMP
+#
 $CMP RJSAE-5080-02
 D Modular Connectors / Ethernet Connectors STACKED MOD JACKS
 $ENDCMP
@@ -366,12 +375,6 @@ $ENDCMP
 $CMP VCNL4040M3OE
 D Fully Integrated Proximity and Ambient Light Sensor with Infrared Emitter, I2C Interface, and Interrupt Function
 F http://www.vishay.com/docs/84274/vcnl4040.pdf
-$ENDCMP
-#
-$CMP PMZB200UNEYL
-D N-Channel 30 V 1.4A (Ta) 350mW (Ta), 6.25W (Tc) Surface Mount DFN1006B-3
-K
-F https://assets.nexperia.com/documents/data-sheet/PMZB200UNE.pdf
 $ENDCMP
 #
 #End Doc Library

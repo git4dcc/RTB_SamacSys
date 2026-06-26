@@ -377,4 +377,76 @@ D Fully Integrated Proximity and Ambient Light Sensor with Infrared Emitter, I2C
 F http://www.vishay.com/docs/84274/vcnl4040.pdf
 $ENDCMP
 #
+$CMP CLP-110-02-G-D
+D 20 Position Connector Header, Center Strip Contacts Surface Mount
+K
+F http://suddendocs.samtec.com/prints/erm8-xxx-xx.x-xxx-dv-xxxx-xx-mkt.pdf
+$ENDCMP
+#
+$CMP SFH_2440
+D Photodiode 620nm 90ns 60 2-SMD, Gull Wing
+K
+F https://www.osram.com/media/resource/hires/osram-dam-5467146/SFH+2440_EN.pdf
+$ENDCMP
+#
+$CMP NSR20F40NXT5G
+D Very Low Forward Voltage Drop 550 mV @ 2.0 A; Low Reverse Current 15 A @ 10 V VR; 2.0 A of Continuous Forward Current; Power Dissipation of 665 mW with Minimum Trace; ESD Rating Human Body Model: Class 3B ESD Rating Machine Model: Class C; Very High Switching Speed; These Devices are PbFree, Halogen Free/BFR Free and are RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/NSR20F40-D.PDF
+$ENDCMP
+#
+$CMP TPSM365R1FRDNR
+D Switching Voltage Regulators 3-V to 65-V input 1 -V to 15-V output 0
+K
+F https://www.ti.com/lit/ds/symlink/tpsm365r3.pdf?ts=1721629476392
+$ENDCMP
+#
+$CMP IRLHS6376TRPBF
+D Infineon IRLHS6376TRPBF Dual N-channel MOSFET, 7.6 A, 30 V HEXFET, 6-Pin PQFN
+K
+F https://www.infineon.com/dgdl/irlhs6376pbf.pdf?fileId=5546d462533600a401535663bef425af
+$ENDCMP
+#
+$CMP BC857BS,115
+D Bipolar Transistors - BJT DUAL PNP45V 100mA
+K
+F https://assets.nexperia.com/documents/data-sheet/BC857BS.pdf
+$ENDCMP
+#
+$CMP 2060-452_998-404
+D SMD PCB terminal block; push-button; 0.75 mm; Pin spacing 4 mm; 2-pole; Push-in CAGE CLAMP; in tape-and-reel packaging
+K
+F https://www.wago.com/2060-452/998-404
+$ENDCMP
+#
+$CMP HSMF-C165
+D Broadcom 572 / 621 nm 2 Green & Red LED, 4-Pin 1608 (0603) SMD package
+K
+F https://www.broadcom.com/products/leds-and-displays/chip-leds/multi-color-surface-mount/hsmf-c165
+$ENDCMP
+#
+$CMP SM5819L2-TP
+D Diode 40 V 1A Surface Mount 2-DFN1006
+K
+F https://www.mccsemi.com/pdf/Products/SM5819L2(DFN1006-2).pdf
+$ENDCMP
+#
+$CMP NL17SZ02P5T5G
+D Chip Complexity: FETs = <100; Designed for 1.65 V to 5.5 V VCC; Pb-Free Packages are Available; Tiny SOT-353 and SOT-553 Packages; 2.4 ns TPD at 5 Volts (typ); Source/Sink 24 mA at 3.0 Volts; Over-Voltage Tolerant Inputs and Outputs; Pin For Pin with NC7SZ02P5X, TC7SZ02FU and TC7SZ02AFE
+K
+F https://www.onsemi.com/pub/Collateral/NL17SZ02-D.PDF
+$ENDCMP
+#
+$CMP MC74HC1G00DFT2G-Q
+D High Noise Immunity; Balanced Propagation Delays (tpLH = tpHL); Low Power Dissipation: ICC = 1mA (Max) at TA = 25C; Symmetrical Output Impedance (IOH = IOL = 2mA); High Speed: tPD = 7ns (Typ) at VCC = 5V; Chip Complexity: FETs = <100
+K
+F https://www.onsemi.com/pub/Collateral/MC74HC1G00-D.PDF
+$ENDCMP
+#
+$CMP SSM6L56FE,LM
+D MOSFET MOSFET
+K
+F 
+$ENDCMP
+#
 #End Doc Library

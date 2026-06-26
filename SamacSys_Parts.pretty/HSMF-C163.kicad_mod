@@ -1,0 +1,165 @@
+(footprint "HSMF-C163"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "HSMF-C163")
+	(tags "LED")
+	(property "Reference" "LED**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a9cb5304-f5f7-4c7f-b83d-fc5b1b9ba4db")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "HSMF-C163"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "96ada927-fcc5-4857-92dc-6d1a62a38882")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7688e805-fff6-4910-9aa0-214e536a738d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d7b992c-ab67-4675-972e-1fb30396743e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -0.65 -0.9)
+		(end -0.65 -0.82929)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "96bc20a7-ce98-4587-ba30-b0585db3ae28")
+	)
+	(fp_line
+		(start -0.8 -0.4)
+		(end -0.8 0.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ca781794-35b2-4247-8cf1-72e7d8e217e7")
+	)
+	(fp_line
+		(start -0.8 0.4)
+		(end 0.8 0.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "11fa1e6a-cbb5-4d26-86c9-a69afb44caad")
+	)
+	(fp_line
+		(start 0.4 -0.4)
+		(end 0.4 0.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7e7de52f-5d0e-4e2d-871f-cfc26fb55bc6")
+	)
+	(fp_line
+		(start 0.8 -0.4)
+		(end -0.8 -0.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "95f35501-bb85-44b9-81e4-7c607b02e9b8")
+	)
+	(fp_line
+		(start 0.8 0.4)
+		(end 0.8 -0.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cc01420e-cb04-436d-8ca5-ea1cf76d08f4")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "ba7d2518-f62c-4545-98c1-22172f9026c9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.65 -0.35 90)
+		(size 0.4 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "75df325d-7803-40f0-8ceb-86fc1bc4108e")
+	)
+	(pad "2" smd rect
+		(at -0.65 0.35 90)
+		(size 0.4 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4d4d32a0-4ab6-4440-9b08-d018cc17c094")
+	)
+	(pad "3" smd rect
+		(at 0.65 -0.35 90)
+		(size 0.4 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "806a1e83-9519-44b1-a24b-31f102bad627")
+	)
+	(pad "4" smd rect
+		(at 0.65 0.35 90)
+		(size 0.4 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "85904c32-5b7b-4234-b0ff-86f632464385")
+	)
+	(embedded_fonts no)
+	(model "C:\\RnD\\NMRA\\_KiCad\\SamacSys\\SamacSys_Parts.3dshapes\\HSMF-C165.stp"
+		(offset
+			(xyz 0 -0.009999999626 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

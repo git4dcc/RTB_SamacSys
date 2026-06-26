@@ -1,0 +1,250 @@
+(footprint "IRLHS6376TRPBF"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "IRLHS6376TRPBF-3")
+	(tags "MOSFET (N-Channel)")
+	(property "Reference" "Q**"
+		(at 0 0.213 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4bb8b358-9a59-4703-a57b-bbbaba3d92ed")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "IRLHS6376TRPBF"
+		(at 0 0.213 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "f6374d04-68b5-42b5-ac25-96a93e59e78e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f147e833-8a17-4a82-89e2-c31a191962a8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "652acff8-5b66-40f3-936a-4f8660017396")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.7 1.4)
+		(end -0.7 1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c0f69e74-4596-469e-b9e1-206d027d7ca8")
+	)
+	(fp_line
+		(start -0.6 1.4)
+		(end -0.6 1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d1b8756c-e461-405e-aa3d-b16cfb3fa898")
+	)
+	(fp_arc
+		(start -0.7 1.4)
+		(mid -0.65 1.35)
+		(end -0.6 1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "15d66119-3d67-4731-a72f-78be5147d96d")
+	)
+	(fp_arc
+		(start -0.6 1.4)
+		(mid -0.65 1.45)
+		(end -0.7 1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9b357abb-aaf2-44f9-8405-2d92b421f3f8")
+	)
+	(fp_line
+		(start -2 -2.025)
+		(end 2 -2.025)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "01d581eb-26b3-4700-98e0-f2e64c72f5d2")
+	)
+	(fp_line
+		(start -2 2.45)
+		(end -2 -2.025)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "17428571-96af-499e-aac5-a214a518f54c")
+	)
+	(fp_line
+		(start 2 -2.025)
+		(end 2 2.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8b9d955d-590a-4a4a-817d-c2be790e9596")
+	)
+	(fp_line
+		(start 2 2.45)
+		(end -2 2.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7813717f-87be-4277-98df-26922f774a9a")
+	)
+	(fp_line
+		(start -1 -1)
+		(end 1 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "198379e9-1542-4a5d-a886-b180f7e93ca4")
+	)
+	(fp_line
+		(start -1 1)
+		(end -1 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8d57a433-6e12-4345-8fc7-53c02eeed32d")
+	)
+	(fp_line
+		(start 1 -1)
+		(end 1 1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "204c21ac-de4f-44b6-863a-ca195807e1d1")
+	)
+	(fp_line
+		(start 1 1)
+		(end -1 1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bc4b34ff-5707-40a8-b245-05b9c9c889a5")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0.213 0)
+		(layer "F.Fab")
+		(uuid "446c8d3a-654a-417d-8e3f-bd9f1955fec0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.65 0.85)
+		(size 0.35 0.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6273bec6-8c36-4983-bafd-74b528f48b4b")
+	)
+	(pad "2" smd rect
+		(at 0 0.85)
+		(size 0.35 0.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "532c0c77-6cbe-45fe-bc25-76acea09a5ae")
+	)
+	(pad "3" smd rect
+		(at 0.65 0.85)
+		(size 0.35 0.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "02512f95-8e9e-423c-bedf-c3ef470567e3")
+	)
+	(pad "4" smd rect
+		(at 0.65 -0.85)
+		(size 0.35 0.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9d1f3b0d-6900-4089-ad0c-788f535874cf")
+	)
+	(pad "5" smd rect
+		(at 0 -0.85)
+		(size 0.35 0.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cacee043-14cb-4a80-8634-2770e5de17a2")
+	)
+	(pad "6" smd rect
+		(at -0.65 -0.85)
+		(size 0.35 0.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "df49a992-4f02-478b-a96c-023b047c7572")
+	)
+	(pad "7" smd rect
+		(at -0.488 0)
+		(size 0.675 0.95)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "59c696d8-8566-4f78-b3fa-3f2eb9f985f3")
+	)
+	(pad "8" smd rect
+		(at 0.488 0)
+		(size 0.675 0.95)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "65127e2b-f051-423b-b0a7-4996314947c3")
+	)
+	(embedded_fonts no)
+	(model "C:\\RnD\\NMRA\\_KiCad\\SamacSys\\SamacSys_Parts.3dshapes\\IRLHS6376TRPBF.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
